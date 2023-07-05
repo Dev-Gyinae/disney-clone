@@ -5,7 +5,7 @@ const Login = (props) => {
         <Container>
             <Content>
                 <CTA>
-                    < CTALogoOne src="/images/cta-logo-one.png" alt ="" />
+                    < CTALogoOne src="/images/cta-logo-one.svg" alt ="" />
                     <SignUp> LET THE FEAST BEGIN </SignUp>
                     <Description> This is a portforlio project for dev.gyinae. A clone / recreation of the disney+ network for practical purposes. Feel free to check my github for the source code. If you are impressed you could buy me coffee and or hire me. </Description>
                     <CTALogoTwo src="/images/cta-logo-two.png" alt="" />
